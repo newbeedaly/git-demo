@@ -14,7 +14,7 @@
 ## 2. push an existing repository from the command line
 	 
 	git clone https://github.com/newbeedaly/hello.git
-	# git remote add origin https://github.com/newbeedaly/hello.git
+	# 一顿操作猛如虎:添加一个文件
 	git add file.md
 	git commit -m "file commit"
 	git push -u origin master
